@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jhone Gomes aka @Bublansky
 - 👀 I’m interested in game development, reusable code and fast development
-- 🌱 I’m currently learning golang for backend
+- 🌱 I’m currently learning .NET
 - 📫 You can reach me at g.m.enohj@gmail.com or https://www.linkedin.com/in/jhonegomes/
 
 <!---
